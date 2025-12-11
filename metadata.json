@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VibeCoach",
+  "description": "An AI-powered communication coach that analyzes video and audio to provide real-time feedback on body language, tone, and content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
